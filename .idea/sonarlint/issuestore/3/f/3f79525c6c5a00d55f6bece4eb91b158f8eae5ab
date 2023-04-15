@@ -1,0 +1,7 @@
+
+^
+java:S1612"HReplace this lambda with method reference 'SimpleGrantedAuthority::new'.(Ş÷¶”
+s
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8‡§¯ì÷0
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä«Üòıÿÿÿÿ

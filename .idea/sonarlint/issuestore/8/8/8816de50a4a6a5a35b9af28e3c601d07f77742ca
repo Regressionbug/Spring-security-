@@ -1,0 +1,13 @@
+
+L
+java:S3740""/Provide the parametrized type for this generic.(Ã›Õ8«Áší÷0
+Q
+java:S37409"/Provide the parametrized type for this generic.(õ£¯ƒıÿÿÿÿ8Õëší÷0
+V	java:S125"<This block of commented-out lines of code should be removed.(æ¨™Úşÿÿÿÿ
+P	java:S1250"<This block of commented-out lines of code should be removed.(Ï²Ê`
+†
+java:S1128"iRemove this unused import 'org.springframework.security.web.authentication.AuthenticationFailureHandler'.(á†ÒÚ8àëší÷0
+‹
+java:S1128"iRemove this unused import 'org.springframework.security.web.authentication.AuthenticationSuccessHandler'.(Â©ŠÏüÿÿÿÿ8áëší÷0
+…
+java:S1128"hRemove this unused import 'org.springframework.security.web.authentication.logout.LogoutSuccessHandler'.(ÈÎÿÍ8âëší÷0
